@@ -1,4 +1,4 @@
-## Predicting Automobile Safety
+## Communicable Disease Trends in OECD Countries
 
 This application aims to communicate the trend of communicable diseases by year and 
 regions in OECD countries through an interactive app using RShiny.
